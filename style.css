@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.header-color{
+    background-color: #f7efe7;
+}
+.font-size{
+    font-size: 70px;
+    color: #FA804C;
+}
+.font-size-1{
+    color:#363958 ;
+    font-size: 70px;
+}
+.img-color{
+    background-color: #F1F1F1;
+    border-radius: 10px;
+    margin: 15px;
+}
+.text-color{
+    color: #FA804C;
+}
+.img-sizing{
+    width: 78px;
+    height: 82px;
+}
+.radious {
+    border-radius: 20px;
+}
